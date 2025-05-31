@@ -16,7 +16,7 @@ Dataset: https://raw.githubusercontent.com/data-bootcamp-v4/data/main/sales.csv
 - state_holiday: Encoded as 0, ‘a’, ‘b’, ‘c’, indicating the presence of a state holiday (0 if none). ‘a’, ‘b’, ‘c’ represent different state holidays.
 - school_holiday: Binary variable; 0 means no school holiday, 1 means there was a school holiday.
 
-**Deliverables**
+### Deliverable
 The Race Against Time: **Predictive Modeling Awaits** You’ll need to work quickly to build your predictive model. At 16:00, a new dataset(without target variable, you can find it here ) will be revealed, and you’ll use your model to predict sales. Get ready, collaborate with your partner, and let’s make some magic happen!
 
 By 17:00, predictions for the new dataset must be delivered, for you LT/TA to compare your predictions with the real label Solutions: here.
